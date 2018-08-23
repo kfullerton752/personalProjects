@@ -1,2 +1,2 @@
-# schoolWork
-Used for posting my projects for school
+# Portfolio
+Used for posting personal projects 
